@@ -1,0 +1,34 @@
+.header-section {
+    height: 70vh;
+    width: 100vw;
+    color: white;
+    position: relative;
+    text-align: center;
+    background: linear-gradient(35deg, rgb(0, 80, 126) 0%, rgb(4, 238, 218) 100%);
+    .header-content {
+        z-index: 100;
+        position: absolute;
+        top: 30%;
+        left: 0;
+        width: 100vw;
+        h1 {
+            letter-spacing: 2px;
+        }
+        .resume-btn {
+            font-size: .8rem;
+            letter-spacing: 2px;
+            margin-top: 3rem;
+            color: white !important;
+            border-color: rgba(255, 255, 255, 0.521) !important;
+            background-color: rgba(16, 70, 102, 0.301) !important;
+            padding: 1rem 1.5rem !important;
+        }
+        .resume-btn:hover {
+            background-color: rgba(4, 238, 218, 0.4) !important;
+            color: rgba(16, 70, 102, 0.60) !important;
+            border-color: rgba(16, 70, 102, 0.603) !important;
+            font-weight: 400 !important;
+        }
+    }
+}
+

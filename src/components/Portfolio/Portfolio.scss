@@ -1,0 +1,23 @@
+@import './PortfolioCards//PortfolioCard.scss';
+
+.portfolio-section {
+
+    .portfolio-content {
+        padding: 4rem 5rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+
+        @media only screen and (max-width: 1350px) {
+            flex-direction: column;
+            padding: 2rem 3rem;
+        }
+
+    }
+
+    @media only screen and (max-width: 1350px) {
+        // padding: 1rem;
+    }
+
+}
