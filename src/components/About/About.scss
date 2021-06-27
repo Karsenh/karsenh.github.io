@@ -104,7 +104,13 @@
             }
             .about-top-right {
                 width: 100vw;
-                padding: 1.25rem;
+                padding: 1.25rem 0 .5rem;
+
+                .about-top-right-language-icons {
+                    position: relative;
+                    width: 90vw;
+                    margin-top: 1.5rem;
+                }
 
             }
         }
