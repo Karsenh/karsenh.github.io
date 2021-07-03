@@ -3,7 +3,7 @@ export const Projects = [
     title: 'Boeing-360',
     platform: 'MERN Web App',
     description:
-      'Collaborated with a team of three to develop a full-stack web application for Boeing capable of streaming 360-degree 4K video in a navigable format witih location services for dynamic POIs.',
+      'Collaborated with a team of three to develop a full-stack web application for Boeing capable of streaming 360-degree 4K video in a navigable format with location services for dynamic POIs.',
     link: 'https://github.com/Full-Stack-Hyperbolic/BOEING-360',
   },
   {
