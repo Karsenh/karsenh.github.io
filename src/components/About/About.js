@@ -21,10 +21,15 @@ const About = () => {
             <span className='bold-span'>Gonzaga University</span> in Spokane
             Washington.
           </p>
+          <hr />
           <p>
             I'm a passionate full-stack web developer, specializing in React.js
             with over three years of OOP experience across several programming
-            languages
+            languages.
+            <br />
+            <br />I enjoy learning new stuff related to web-dev on YouTube &
+            Udemy in my free time, in addition to binge watching shows on
+            Netflix and Hulu.
           </p>
           <div className='about-top-right-language-icons'>
             <FaJs size={25} />
