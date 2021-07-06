@@ -27,9 +27,9 @@ const About = () => {
             with over three years of OOP experience across several programming
             languages.
             <br />
-            <br />I enjoy learning new stuff related to web-dev on YouTube &
-            Udemy in my free time, in addition to binge watching shows on
-            Netflix and Hulu.
+            <br />I enjoy learning new stuff related to web development on
+            YouTube & Udemy in my free time, in addition to binge watching shows
+            on Netflix & Hulu.
           </p>
           <div className='about-top-right-language-icons'>
             <FaJs size={25} />
