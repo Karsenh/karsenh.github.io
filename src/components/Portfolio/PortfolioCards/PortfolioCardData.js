@@ -1,5 +1,12 @@
 export const Projects = [
   {
+    title: 'Sorting Visualizer',
+    platform: 'React.js',
+    description: 'Basic React.js web server for visualizing merge-sort.',
+    link: 'https://github.com/Karsenh/SortingVisualizer',
+    demoLink: 'https://aqueous-escarpment-60789.herokuapp.com/',
+  },
+  {
     title: 'Boeing-360',
     platform: 'MERN Web App',
     description:

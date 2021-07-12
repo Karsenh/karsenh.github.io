@@ -15,6 +15,7 @@ const Portfolio = () => {
               platform={project.platform}
               description={project.description}
               link={project.link}
+              demoLink={project.demoLink}
             />
           );
         })}
