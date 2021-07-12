@@ -2,16 +2,10 @@ export const Projects = [
   {
     title: 'Sorting Visualizer',
     platform: 'React.js',
-    description: 'Basic React.js web server for visualizing merge-sort.',
+    description:
+      'React.js based web-app for visualizing the merge-sort algorithm.',
     link: 'https://github.com/Karsenh/SortingVisualizer',
     demoLink: 'https://aqueous-escarpment-60789.herokuapp.com/',
-  },
-  {
-    title: 'Boeing-360',
-    platform: 'MERN Web App',
-    description:
-      'Collaborated with a team of three to develop a full-stack web application for Boeing capable of streaming 360-degree 4K video in a navigable format with location services for dynamic POIs.',
-    link: 'https://github.com/Full-Stack-Hyperbolic/BOEING-360',
   },
   {
     title: 'Senior Research Project',
@@ -19,6 +13,22 @@ export const Projects = [
     description:
       'Developed a full-stack user-authentication and profile system integrating several APIs such as GitHub using MongoDB, Express, React, and Node.js - deployed to remote Heroku server.',
     link: 'https://github.com/Karsenh/MERN-User-Profile-Project',
+    demoLink: 'https://mern-310-final.herokuapp.com/',
+  },
+  {
+    title: 'To-Do Notes',
+    platform: 'React.js',
+    description:
+      'Obligatory To-Do style web app made using React.js framework and non-persistent state for to-dos.',
+    link: 'https://github.com/Karsenh/React-Messaging-App',
+    demoLink: 'https://sleepy-ocean-15079.herokuapp.com/',
+  },
+  {
+    title: 'Boeing-360',
+    platform: 'MERN Web App',
+    description:
+      'Collaborated with a team of three to develop a full-stack web application for Boeing capable of streaming 360-degree 4K video in a navigable format with location services for dynamic POIs. Patent pending.',
+    link: 'https://github.com/Full-Stack-Hyperbolic/BOEING-360',
   },
   {
     title: 'Memories',
