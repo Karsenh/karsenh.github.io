@@ -10,7 +10,7 @@ const Header = () => {
     <div className='header-section'>
       <div className='header-content'>
         <h1>
-          Hi, my name's <span style={{ fontWeight: '600' }}>Karsen</span>! 👋🏼
+          Hi, my name's <span style={{ fontWeight: '600' }}>Karsen</span>!
         </h1>
         <Button
           onClick={() => (window.location.href = myPDF)}
