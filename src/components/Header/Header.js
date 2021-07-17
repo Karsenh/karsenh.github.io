@@ -11,7 +11,7 @@ const Header = () => {
     <div className='header-section'>
       <div className='header-content'>
         <h1>
-          Hi, my name's <span style={{ fontWeight: '600' }}>Karsen</span>!
+          Hi, my name's <span style={{ fontWeight: '800' }}>Karsen</span>!
         </h1>
 
         <div
@@ -24,25 +24,29 @@ const Header = () => {
             justifyContent: 'center',
           }}
         >
-          <span>{'< '}</span>
+          <span style={{ marginRight: '.5rem', fontWeight: '800' }}>
+            {'< '}
+          </span>
           <div style={{ fontStyle: 'italic' }}>
             <Typewriter
               options={{
                 strings: [
-                  'Full-Stack Web Dev',
-                  'Traveler',
-                  'Movie connoisseur',
-                  'Meme lord',
+                  'Full-stack web engineer',
+                  'Computer Science Major',
+                  'Professional Googler',
+                  'Stack Overflow inquisitor',
+                  'Tinkerer',
                 ],
                 autoStart: true,
                 loop: true,
-                delay: '100',
-                deleteSpeed: '75',
+                delay: '70',
+                deleteSpeed: '50',
               }}
             />
           </div>
-
-          <span>{' />'}</span>
+          <span style={{ marginLeft: '.5rem', fontWeight: '800' }}>
+            {' />'}
+          </span>
         </div>
 
         <Button
@@ -55,7 +59,7 @@ const Header = () => {
         </Button>
       </div>
       <Particles
-        style={{ position: 'absolute', left: '0', top: '0', opacity: '50%' }}
+        style={{ position: 'absolute', left: '0', top: '0', opacity: '35%' }}
       />
       <AnimatedWaves />
     </div>
