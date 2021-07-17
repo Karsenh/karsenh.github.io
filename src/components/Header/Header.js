@@ -3,7 +3,7 @@ import AnimatedWaves from './Waves/AnimatedWaves';
 import Particles from 'react-particles-js';
 import { Button } from '@material-ui/core';
 import DescriptionIcon from '@material-ui/icons/Description';
-import myPDF from '../../myResume.pdf';
+import myPDF from './myResume.pdf';
 
 const Header = () => {
   return (
