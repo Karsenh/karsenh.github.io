@@ -20,7 +20,7 @@ const Header = () => {
             fontSize: '1.5rem',
             display: 'flex',
             margin: '2rem auto',
-            width: '50%',
+            width: '100%',
             justifyContent: 'center',
           }}
         >
