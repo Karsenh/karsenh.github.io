@@ -31,16 +31,15 @@ const Header = () => {
             <Typewriter
               options={{
                 strings: [
-                  'Full-stack web engineer',
+                  'Full-stack web developer',
                   'Computer Science Major',
                   'Professional Googler',
-                  'Stack Overflow inquisitor',
-                  'Tinkerer',
+                  'Maker & breaker of things',
                 ],
                 autoStart: true,
                 loop: true,
-                delay: '70',
-                deleteSpeed: '50',
+                delay: '65',
+                deleteSpeed: '40',
               }}
             />
           </div>
