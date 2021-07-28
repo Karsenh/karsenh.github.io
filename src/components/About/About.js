@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '../../images/profilePic.jpg';
+import profilePic from '../../images/profilePic.png';
 import SocialIcons from './SocialIcons/SocialIcons';
 import { FaHtml5, FaJava, FaJs, FaPython } from 'react-icons/fa';
 
