@@ -9,9 +9,9 @@ export const Projects = [
   },
   {
     title: 'Memories',
-    platform: '(MERN)',
+    platform: '(MERN - in development)',
     description:
-      'Full-stack (MERN) web app - encapsulating the fundamentals of Redux state management, RESTful APIs, user authentication, web sockets, and more.',
+      'Full-stack (MERN) web app encapsulating the fundamentals of Redux state management, RESTful APIs, user authentication, web sockets, and more.',
     link: 'https://github.com/Full-Stack-Hyperbolic/Fundamental-User-App',
     demoLink: 'https://klh-memories.netlify.app/',
   },
